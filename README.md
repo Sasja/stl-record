@@ -1,12 +1,12 @@
 # stl-record
 3d printing records, why not?
 
-currently no audio yet, just one circular sinewave. Also the parameters chosen (depth, amplitude, groove angle, diameter) have not been tested yet!
+currently no wav input yet, just sines. Also the parameters chosen (depth, amplitude, groove angle, diameter, frequency, sample rate) have not been tested yet! just chosen ad hock for developing the code.
 
 It has two channels though :)
 
 ## set up
-im asuming ubuntu here
+im asuming you are using ubuntu:
 
 ```sudo apt-get install python-pip meshlab```
 
@@ -19,3 +19,5 @@ im asuming ubuntu here
 ## view result
 
 ```meshlab record.stl```
+
+![see the groove](/doc/record.png?raw=true)
