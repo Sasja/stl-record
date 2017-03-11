@@ -1,7 +1,7 @@
 # stl-record
 3d printing records, why not?
 
-currently no wav input yet, just sines. Also the parameters chosen (depth, amplitude, groove angle, diameter, frequency, sample rate) have not been tested yet! just chosen ad hock for developing the code.
+currently no wav input yet, just sines. Also the parameters chosen (depth, amplitude, groove angle, diameter, frequency, sample rate) have not been tested yet! just chosen ad hock for developing the code. Also it has only one groove which is circular.
 
 It has two channels though :)
 
